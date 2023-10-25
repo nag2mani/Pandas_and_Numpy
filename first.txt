@@ -1,3 +1,0 @@
-,name,rank,user
-0,python,1,212
-1,c++,2,232
